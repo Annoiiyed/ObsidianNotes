@@ -1,0 +1,3 @@
+The Gulf of Plenty is a sea area known for its hunting of Swordwhales, massive sea creatures with a blade-like protuberance on their back that can swiftly cleave most ships in two. The whaling industry is dominated by wealthy [[About the Freeboast|Orwennial]] merchant conglomerates, but most of the crew are indentured servants.
+
+Any ship trying to pass has to fend off Darxyiinthan raiding parties, who are in a constant clash with the [[Freenavy]] over who controls the gulf.

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d524cc0ad6444966",
+    "type": "split",
+    "children": [
+      {
+        "id": "cacbaca1b57ae5f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261f61402fe3a686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/Pre-campaign Q & A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "832e8cd67d3765db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timewax/Logbook/2023-02-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc40770f8d0f09bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Freenavy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb42ee3f61dfb8d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e22ae2cbcf84dd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Daxryiintha/About Daxryiintha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84f4e3c30ac576a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Footburn Mines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5af366437bfdbe6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "823e36ccfe9b9fa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81eed0dd7cebb04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e54f2e8c3b2b7727",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2cc6ad15f19306f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 631.5
+  },
+  "right": {
+    "id": "0ae7ae3489da09e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "817058f781a25d7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6c711489faf229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18b98579482cfcc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c2181533bdab8a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07be353a4f8dd64c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb42ee3f61dfb8d2",
+  "lastOpenFiles": [
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Freenavy.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Footburn Mines.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/About the Freeboast.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Gulf of Plenty.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Daxryiintha/About Daxryiintha.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Untitled.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Empire of the Fallen Star/About the Empire.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/Nations/Untitled.md",
+    "Timewax/Logbook/2023-02-03.md",
+    "D&D/Charges of the Freeboast/What the players know/Factions/Orwen's Merchantile Counsil.md"
+  ]
+}
