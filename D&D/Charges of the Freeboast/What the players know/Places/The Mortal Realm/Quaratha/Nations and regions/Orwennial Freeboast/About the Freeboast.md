@@ -1,3 +1,6 @@
+
+![[Orwennial Freebosat Sigil.png]]
+
 The Orwennial Freeboast is a manifestation of the purest form of freedom: The ability to determine where you empty your own purse. It is a land untainted by the shackles of authority, where individuals are free to pursue their own self-interest and accumulate wealth without interference. The region's prosperity is derived from its position on the Sea of Plenty, which serves as a testament to the ingenuity and enterprise of its inhabitants.
 
 The Orwennial Freeboast stands as a beacon of merit, rejecting the notions of laws, kings and any central authority that stifle the human spirit. It operates on the principle that value is subjective, and everything has a price that is determined by the market. This allows for a dynamic and ever-evolving economy, where success is determined by merit, and the only limit to wealth is the creativity and drive of the individual.

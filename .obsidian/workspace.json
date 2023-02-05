@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Freenavy.md",
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Orwennial Freeboast/Freenavy.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md",
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7e6aa32d7549853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fc8d1d170471349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32bcea7890703fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4ede49d8fc5880a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6728f11248d0a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5425bfff37c45bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Katus River.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134dc187c4bbf131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4648b5e0eb73254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Kingdom of Faolin/World Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +157,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Daxryiintha/About Daxryiintha.md",
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "274ae0ed630516e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Orwennial Freeboast/Footburn Mines.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +181,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Footburn Mines.md",
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Orwennial Freeboast/Footburn Mines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -130,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 631.5
+    "width": 606.5
   },
   "right": {
     "id": "0ae7ae3489da09e2",
@@ -146,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md",
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Orwennial Freeboast/Footburn Mines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md",
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Orwennial Freeboast/Footburn Mines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/Charges of the Freeboast/What they don't/Chapter 1, The Rebellion.md"
+                "file": "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Orwennial Freeboast/Footburn Mines.md"
               }
             }
           }
@@ -207,17 +315,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb42ee3f61dfb8d2",
+  "active": "274ae0ed630516e4",
   "lastOpenFiles": [
-    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Freenavy.md",
-    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/Footburn Mines.md",
-    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Orwennial Freeboast/About the Freeboast.md",
-    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Gulf of Plenty.md",
-    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Daxryiintha/About Daxryiintha.md",
-    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Untitled.md",
-    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Nations/Empire of the Fallen Star/About the Empire.md",
-    "D&D/Charges of the Freeboast/What the players know/Places/Nations/Untitled.md",
-    "Timewax/Logbook/2023-02-03.md",
-    "D&D/Charges of the Freeboast/What the players know/Factions/Orwen's Merchantile Counsil.md"
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Orwennial Freeboast/About the Freeboast.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/The Hinterlands.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Empire of the Fallen Star/About the Empire.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Kingdom of Faolin/About the Kingdom.md",
+    "D&D/Charges of the Freeboast/What the players know/Events/War for the Coin.md",
+    "D&D/Charges of the Freeboast/What the players know/Untitled.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Daxryiintha/About Daxryiintha.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Kingdom of Faolin/World Tree.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/Katus River.md",
+    "D&D/Charges of the Freeboast/What the players know/Places/The Mortal Realm/Quaratha/Nations and regions/The Flatlands/About the Flatlands.md"
   ]
 }

@@ -1,0 +1,5 @@
+The Fallen Star Empire seemed to rise form nothing within a matter of a century, but quickly grew to span most of Quaratha. Where the [[About the Kingdom|Kingsom of Faolin]] once spread most of the continent, nowadays, only a few dedaces later, [[Cult of the Fallen Star]] reigns supreme over many of their former lands 
+
+Consisting of a single city ruled by the Cult, strange a strange pull eminates from them, as if magical, quickly drawing in the loyalty of the "lesser" races in cities throughout the continent. The empire's lust for conquest seems to have little to no halt, and up until fourty years ago, they quickly contuered the lands from [[The Hinterlands]], all the way south to [[Fort Sud]], with their northern border following the [[Katus River]].
+
+The only real pushback they have so far received, has been from the resistance at the [[World Tree]], the armies of what's left of [[About the Kingdom|Faolin]], and after the [[War for the Coin]], they lost control over the [[About the Freeboast|Freeboast]].
