@@ -1,14 +1,60 @@
 {
   "main": {
-    "id": "022eb257dcef018a",
+    "id": "6e3d6071acb0e314",
     "type": "split",
     "children": [
       {
-        "id": "cafc750a313d5a52",
+        "id": "6891b9b0485b02d7",
         "type": "tabs",
         "children": [
           {
-            "id": "70ce6c47e80e3dbf",
+            "id": "9272a909c9320ccc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session notes/Session 02.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "58efe814ad34ba25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emerald Eye.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68d17bbf95469c77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2ce899816e71e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Zarian - Jordan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e19869f01eee9ce3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +67,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "00bd914946b5abec",
+    "id": "d53a7bfe4b104db1",
     "type": "split",
     "children": [
       {
-        "id": "88a6a7fef409295c",
+        "id": "582bb775c18fd2d8",
         "type": "tabs",
         "children": [
           {
-            "id": "3169a0d51caff484",
+            "id": "0ef04686385d822c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +85,7 @@
             }
           },
           {
-            "id": "a17fad533f2a00ac",
+            "id": "2cf87bcaa7aef681",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +100,7 @@
             }
           },
           {
-            "id": "cf571a1f0028b5c0",
+            "id": "fadf1994d1e73e38",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,19 +114,20 @@
     "width": 300
   },
   "right": {
-    "id": "daf93169f59c356e",
+    "id": "e4a21666637b59f4",
     "type": "split",
     "children": [
       {
-        "id": "a7bbd2a540edf2f4",
+        "id": "32d69f645e92da84",
         "type": "tabs",
         "children": [
           {
-            "id": "b062dceb362ce89c",
+            "id": "4ccfd85d0617d8f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session notes/Session 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +139,19 @@
             }
           },
           {
-            "id": "894516a3cf26eeee",
+            "id": "ca0644fee5e508e8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session notes/Session 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7956df7941224104",
+            "id": "02c91110b399c1c3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +162,13 @@
             }
           },
           {
-            "id": "3fa8d61946ed7e66",
+            "id": "c3d492007a6d2363",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session notes/Session 02.md"
+              }
             }
           }
         ]
@@ -138,6 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70ce6c47e80e3dbf",
-  "lastOpenFiles": []
+  "active": "9272a909c9320ccc",
+  "lastOpenFiles": [
+    "Player Characters/Leah - Joe.md",
+    "Emerald Eye.md",
+    "Session notes/Session 02.md",
+    "NPCs/Elder Colbu Kaz.md",
+    "Moonweaver, the Silver God in the Sky.md",
+    "Player Characters/Leander - Joe.md",
+    "NPCs/Aya Jabe.md",
+    "Player Characters/Frux - Noï.md",
+    "Player Characters/Ulm'rouha - Jonah.md",
+    "Player Characters/Zarian - Jordan.md"
+  ]
 }
